@@ -30,10 +30,12 @@
 <br>
 
 ## 📌 Pinned Repositories
-
+<a href="https://github.com/akhilmoorkkandathil/Vishal_Furnitures_Ecommerce">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=akhilmoorkkandathil&repo=Vishal_Furnitures_Ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/akhilmoorkkandathil/Edusolve">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=akhilmoorkkandathil&repo=Edusolve&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a>   
 
 <br>
 <br>
