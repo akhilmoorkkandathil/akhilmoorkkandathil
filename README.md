@@ -49,7 +49,7 @@
 
 ## 📣 How about an Office quote before you go?
 
-> <p>If you don't risk anything, you risk even more.</p>
+> <p>Good programmers write code that humans can understand.</p>
 
-> <p>- Daily Urbanista</p>
+> <p>- Martin Fowle</p>
 
