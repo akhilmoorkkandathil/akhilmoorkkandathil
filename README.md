@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akhil</h1>
-<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Fullstack Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akhil
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
+<h3 align="center"<picture>Software Engineer</h3>
 <br/>
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -8,19 +9,12 @@
 [![](https://img.shields.io/badge/Personal-website-informational)](https://personal-website-alpha-five-33.vercel.app/)
 
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilmoorkkandathil&show_icons=true&locale=en&layout=compact" alt="pararell" /></p>
-<br><br>
-<br><br>
-<br><br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br><h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -30,21 +24,6 @@
 <br>
 <br>
 
-## 📌 Pinned Repositories
-<a href="https://github.com/akhilmoorkkandathil/Vishal_Furnitures_Ecommerce">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=akhilmoorkkandathil&repo=Vishal_Furnitures_Ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/akhilmoorkkandathil/Edusolve">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=akhilmoorkkandathil&repo=Edusolve&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> 
-<br>
-<br>
-<a href="https://github.com/akhilmoorkkandathil/Data-Structure-and-Algorithem">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=akhilmoorkkandathil&repo=Data-Structure-and-Algorithem&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
 
 
 ## 📣 How about an Office quote before you go?
